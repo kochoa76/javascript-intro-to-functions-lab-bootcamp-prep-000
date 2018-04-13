@@ -18,11 +18,13 @@ function logWhisper(string) {
 }
 logWhisper(string)
 
-sayHitoGrandma(string){
-console.log("I can't hear you!")
-return `${string}`
+var lowercase= "string"
+sayHitoGrandma(string)
+if (lowercase.toLowerCase() === lowercase) {
+  console.log("I can't hear you!")
 }
-sayHiToGrandma(string)
+  
+sayHitoGrandma(string)
 
 
 
