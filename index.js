@@ -20,7 +20,7 @@ logWhisper(string)
 
 
 
-sayHitoGrandma(string){
+function sayHitoGrandma(string){
   console.log("I can't hear you!")
   }
 sayHitoGrandma()
