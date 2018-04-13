@@ -18,7 +18,7 @@ function logWhisper(string) {
 }
 logWhisper(string)
 
-sayHitoGrandma(string) {
+sayHitoGrandma(string){
 console.log("I can't hear you!")
 return `${string}`
 }
