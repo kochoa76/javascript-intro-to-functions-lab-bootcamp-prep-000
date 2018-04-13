@@ -20,7 +20,7 @@ logWhisper(string)
 
 var lowercase= "hello"
 sayHitoGrandma(string)
-if (`${string}`.toLowerCase() === lowercase) {
+if (`${string} === string.toLowerCase) {
   console.log("I can't hear you!")
 }
   
